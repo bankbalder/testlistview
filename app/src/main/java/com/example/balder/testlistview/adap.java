@@ -14,7 +14,6 @@ import java.util.List;
 
 public class adap extends BaseAdapter{
 
-    private Context mContextx;
     private Context mContext;
     private List<Product> mProductList;
 
