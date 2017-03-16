@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-    private String tester;
+
     private ListView lvProduct;
     private adap adapter;
     private List<Product> mProductList;
